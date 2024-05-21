@@ -1,0 +1,17 @@
+URL for Creating Table
+By now, you have learned how to:
+
+Create a database in phpMyAdmin GUI on MySQL.
+
+Use the CREATE statement to create new tables in the database.
+
+Use the INSERT statement to add records to the tables.
+
+Use the ALTER statement to add, delete, rename, or modify the columns of an existing table.
+
+Use the TRUNCATE statement to delete the contents of an existing table (but not the table).
+
+Use the DROP statement to delete an entire table.
+
+
+https://ahntarmah-8080.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/tbl_sql.php?db=Mysql_Learners&table=Toys
